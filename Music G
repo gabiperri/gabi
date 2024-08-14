@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Chakra+Petch:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap"
+        rel="stylesheet">
+    <title>Music G</title>
+</head>
+
+<body>
+    <header>Music G</header>
+
+    <section class="chamada">
+        <div class="chamada-texto">
+            <h1>Depois do baile</h1>
+            <p>#Depois do baile</p>
+        </div>
+
+        <div>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/Gn4r7VM6sfI?si=IgffxfggtY4zIcRN"
+                title="YouTube video player"
+                frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+                referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </div>
+    </section>
+
+    <section class="categoria">
+        <h2>Música</h2>
+        <div class="categoria-videos">
+            <a href="https://www.youtube.com/embed/Lknozq6eO-g?si=LklnrdOMLMf8n205">
+                <img src="https://img.youtube.com/vi/Lknozq6eO-g/maxresdefault.jpg" alt="Vídeo 1" />
+            </a>
+            <a href="https://youtu.be/dC6NPbqJV6k?si=2wSD8uWGV6u3EdAh">
+                <img src="https://img.youtube.com/vi/dC6NPbqJV6k/maxresdefault.jpg" alt="Vídeo 2" />
+            </a>
+            <a href="https://youtu.be/nSVkMe3oJ8o?si=1P0tYkqsTGFNDYFD">
+                <img src="https://img.youtube.com/vi/nSVkMe3oJ8o/maxresdefault.jpg" alt="Vídeo 3" />
+            </a>
+            <a href="https://youtu.be/5Q6GjU8Qd-4?si=p43aZePk1jgtm8Pq">
+                <img src="https://img.youtube.com/vi/5Q6GjU8Qd-4/maxresdefault.jpg" alt="Vídeo 4" />
+            </a>
+            <a href="https://youtu.be/Lknozq6eO-g?si=LklnrdOMLMf8n205">
+                <img src="https://img.youtube.com/vi/Lknozq6eO-g/maxresdefault.jpg" alt="Vídeo 5" />
+            </a>
+        </div>
+    </section>
+
+</body>
+
+</html>
